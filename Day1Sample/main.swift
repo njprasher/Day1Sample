@@ -48,3 +48,12 @@ c=a%b
 print(a, " % " , b ," = " , c)
 
 print("Neeraj")
+
+
+var str = "Neeraj"
+
+var i=0;
+while i<10 {
+    print(i+1, str);
+    i=i+1;
+}
